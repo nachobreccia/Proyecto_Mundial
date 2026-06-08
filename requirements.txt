@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-mplsoccer
-plotly
-scikit-learn
-scipy
-Pillow
