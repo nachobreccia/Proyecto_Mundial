@@ -1,0 +1,172 @@
+match_id,match_date,kick_off,competition_name,season_name,competition_stage,home_team,away_team,home_score,away_score,stadium,referee,match_label,home_result,away_result,competition_short,tournament_id
+3922240,2024-01-28,20:00:00.000,African Cup of Nations,2023,Round of 16,Egypt,Congo DR,1,1,Stade Laurent Pokou,Abongile Tom,2024-01-28 | Egypt 1-1 Congo DR,Draw,Draw,AFCON,AFCON_2023
+3920400,2024-01-19,17:00:00.000,African Cup of Nations,2023,Group Stage,Senegal,Cameroon,3,1,Stade Charles Konan Banny de Yamoussoukro,Mahmood Ali Mahmood Ismail,2024-01-19 | Senegal 3-1 Cameroon,Win,Loss,AFCON,AFCON_2023
+3920395,2024-01-17,20:00:00.000,African Cup of Nations,2023,Group Stage,Congo DR,Zambia,1,1,Stade Laurent Pokou,Bamlak Tessema Weyesa,2024-01-17 | Congo DR 1-1 Zambia,Draw,Draw,AFCON,AFCON_2023
+3920407,2024-01-21,20:00:00.000,African Cup of Nations,2023,Group Stage,South Africa,Namibia,4,0,Stade Amadou Gon Coulibaly,Youcef Gamouh,2024-01-21 | South Africa 4-0 Namibia,Win,Loss,AFCON,AFCON_2023
+3920412,2024-01-23,17:00:00.000,African Cup of Nations,2023,Group Stage,Guinea,Senegal,0,2,Stade Charles Konan Banny de Yamoussoukro,Pacifique Ndabihawenimana,2024-01-23 | Guinea 0-2 Senegal,Loss,Win,AFCON,AFCON_2023
+3920415,2024-01-23,20:00:00.000,African Cup of Nations,2023,Group Stage,Mauritania,Algeria,1,0,Stade de Bouaké,Omar Abdulkadir Artan,2024-01-23 | Mauritania 1-0 Algeria,Win,Loss,AFCON,AFCON_2023
+3920404,2024-01-20,20:00:00.000,African Cup of Nations,2023,Group Stage,Tunisia,Mali,1,1,Stade Amadou Gon Coulibaly,Daniel Nii Ayi Laryea,2024-01-20 | Tunisia 1-1 Mali,Draw,Draw,AFCON,AFCON_2023
+3920393,2024-01-16,17:00:00.000,African Cup of Nations,2023,Group Stage,Tunisia,Namibia,0,1,Stade Amadou Gon Coulibaly,Abdulkadir Artan,2024-01-16 | Tunisia 0-1 Namibia,Loss,Win,AFCON,AFCON_2023
+3920394,2024-01-17,17:00:00.000,African Cup of Nations,2023,Group Stage,Morocco,Tanzania,3,0,Stade Laurent Pokou,Alhadi Allaou Mahamat,2024-01-17 | Morocco 3-0 Tanzania,Win,Loss,AFCON,AFCON_2023
+3920402,2024-01-20,14:00:00.000,African Cup of Nations,2023,Group Stage,Algeria,Burkina Faso,2,2,Stade de Bouaké,Abongile Tom,2024-01-20 | Algeria 2-2 Burkina Faso,Draw,Draw,AFCON,AFCON_2023
+3920405,2024-01-21,14:00:00.000,African Cup of Nations,2023,Group Stage,Morocco,Congo DR,1,1,Stade Laurent Pokou,Peter Waweru Kamaku,2024-01-21 | Morocco 1-1 Congo DR,Draw,Draw,AFCON,AFCON_2023
+3920416,2024-01-24,17:00:00.000,African Cup of Nations,2023,Group Stage,South Africa,Tunisia,0,0,Stade Amadou Gon Coulibaly,Issa Sy,2024-01-24 | South Africa 0-0 Tunisia,Draw,Draw,AFCON,AFCON_2023
+3922658,2024-02-03,20:00:00.000,African Cup of Nations,2023,Quarter-finals,Cape Verde Islands,South Africa,0,0,Stade Charles Konan Banny de Yamoussoukro,Jean Jacques Ndala Ngambo,2024-02-03 | Cape Verde Islands 0-0 South Africa,Draw,Draw,AFCON,AFCON_2023
+3920408,2024-01-22,17:00:00.000,African Cup of Nations,2023,Group Stage,Equatorial Guinea,Côte d'Ivoire,4,0,Stade Olympique Alassane Ouattara,Mahmood Ali Mahmood Ismail,2024-01-22 | Equatorial Guinea 4-0 Côte d'Ivoire,Win,Loss,AFCON,AFCON_2023
+3920410,2024-01-22,20:00:00.000,African Cup of Nations,2023,Group Stage,Mozambique,Ghana,2,2,Stade Olympique Alassane Ouattara,Ibrahim Mutaz,2024-01-22 | Mozambique 2-2 Ghana,Draw,Draw,AFCON,AFCON_2023
+3923881,2024-02-11,20:00:00.000,African Cup of Nations,2023,Final,Nigeria,Côte d'Ivoire,1,2,Stade Olympique Alassane Ouattara,Dahane Beida,2024-02-11 | Nigeria 1-2 Côte d'Ivoire,Loss,Win,AFCON,AFCON_2023
+3923880,2024-02-10,20:00:00.000,African Cup of Nations,2023,3rd Place Final,South Africa,Congo DR,0,0,Stade Félix Houphouët-Boigny      ,Bamlak Tessema Weyesa,2024-02-10 | South Africa 0-0 Congo DR,Draw,Draw,AFCON,AFCON_2023
+3922838,2024-02-07,22:00:00.000,African Cup of Nations,2023,Semi-finals,Côte d'Ivoire,Congo DR,1,0,Stade Olympique Alassane Ouattara,Ibrahim Mutaz,2024-02-07 | Côte d'Ivoire 1-0 Congo DR,Win,Loss,AFCON,AFCON_2023
+3922837,2024-02-07,17:00:00.000,African Cup of Nations,2023,Semi-finals,Nigeria,South Africa,1,1,Stade de Bouaké,Amin Mohamed Omar,2024-02-07 | Nigeria 1-1 South Africa,Draw,Draw,AFCON,AFCON_2023
+3922242,2024-01-29,20:00:00.000,African Cup of Nations,2023,Round of 16,Senegal,Côte d'Ivoire,1,1,Stade Charles Konan Banny de Yamoussoukro,Pierre Ghislain Atcho,2024-01-29 | Senegal 1-1 Côte d'Ivoire,Draw,Draw,AFCON,AFCON_2023
+3922659,2024-02-03,17:00:00.000,African Cup of Nations,2023,Quarter-finals,Mali,Côte d'Ivoire,1,2,Stade de Bouaké,Mohamed Adel Elsaid,2024-02-03 | Mali 1-2 Côte d'Ivoire,Loss,Win,AFCON,AFCON_2023
+3922356,2024-02-02,20:00:00.000,African Cup of Nations,2023,Quarter-finals,Congo DR,Guinea,3,1,Stade Olympique Alassane Ouattara,Mustapha Ghorbal,2024-02-02 | Congo DR 3-1 Guinea,Win,Loss,AFCON,AFCON_2023
+3922243,2024-01-30,20:00:00.000,African Cup of Nations,2023,Round of 16,Morocco,South Africa,0,2,Stade Laurent Pokou,Mahmood Ali Mahmood Ismail,2024-01-30 | Morocco 0-2 South Africa,Loss,Win,AFCON,AFCON_2023
+3920396,2024-01-18,20:00:00.000,African Cup of Nations,2023,Group Stage,Egypt,Ghana,2,2,Stade Félix Houphouët-Boigny      ,Pierre Ghislain Atcho,2024-01-18 | Egypt 2-2 Ghana,Draw,Draw,AFCON,AFCON_2023
+3920385,2024-01-14,17:00:00.000,African Cup of Nations,2023,Group Stage,Egypt,Mozambique,2,2,Stade Félix Houphouët-Boigny      ,Dahane Beida,2024-01-14 | Egypt 2-2 Mozambique,Draw,Draw,AFCON,AFCON_2023
+3920387,2024-01-14,20:00:00.000,African Cup of Nations,2023,Group Stage,Ghana,Cape Verde Islands,1,2,Stade Félix Houphouët-Boigny      ,Jean Jacques Ndala Ngambo,2024-01-14 | Ghana 1-2 Cape Verde Islands,Loss,Win,AFCON,AFCON_2023
+3920419,2024-01-24,20:00:00.000,African Cup of Nations,2023,Group Stage,Zambia,Morocco,0,1,Stade Laurent Pokou,Patrice Tanguy Mebiame,2024-01-24 | Zambia 0-1 Morocco,Loss,Win,AFCON,AFCON_2023
+3920418,2024-01-24,20:00:00.000,African Cup of Nations,2023,Group Stage,Tanzania,Congo DR,0,0,Stade Amadou Gon Coulibaly,Amin Mohamed Omar,2024-01-24 | Tanzania 0-0 Congo DR,Draw,Draw,AFCON,AFCON_2023
+3920411,2024-01-22,20:00:00.000,African Cup of Nations,2023,Group Stage,Cape Verde Islands,Egypt,2,2,Stade Félix Houphouët-Boigny      ,Alhadi Allaou Mahamat,2024-01-22 | Cape Verde Islands 2-2 Egypt,Draw,Draw,AFCON,AFCON_2023
+3920398,2024-01-18,19:00:00.000,African Cup of Nations,2023,Group Stage,Côte d'Ivoire,Nigeria,0,1,Stade Olympique Alassane Ouattara,Mustapha Ghorbal,2024-01-18 | Côte d'Ivoire 0-1 Nigeria,Loss,Win,AFCON,AFCON_2023
+3920391,2024-01-16,20:00:00.000,African Cup of Nations,2023,Group Stage,Mali,South Africa,2,0,Stade Amadou Gon Coulibaly,Mohamed Adel Hussein,2024-01-16 | Mali 2-0 South Africa,Win,Loss,AFCON,AFCON_2023
+3920390,2024-01-15,20:00:00.000,African Cup of Nations,2023,Group Stage,Algeria,Angola,1,1,Stade de Bouaké,Issa Sy,2024-01-15 | Algeria 1-1 Angola,Draw,Draw,AFCON,AFCON_2023
+3920388,2024-01-15,14:00:00.000,African Cup of Nations,2023,Group Stage,Senegal,Gambia,3,0,Stade Charles Konan Banny de Yamoussoukro,Redouane Jiyed,2024-01-15 | Senegal 3-0 Gambia,Win,Loss,AFCON,AFCON_2023
+3920384,2024-01-13,22:00:00.000,African Cup of Nations,2023,Group Stage,Côte d'Ivoire,Guinea-Bissau,2,0,Stade Olympique Alassane Ouattara,Amin Mohamed Omar,2024-01-13 | Côte d'Ivoire 2-0 Guinea-Bissau,Win,Loss,AFCON,AFCON_2023
+3939991,2024-07-03,01:00:00.000,Copa America,2024,Group Stage,Brazil,Colombia,1,1,Levi''s Stadium,Jesús Valenzuela Sáez,2024-07-03 | Brazil 1-1 Colombia,Draw,Draw,Copa América,Copa América_2024
+3939982,2024-06-28,01:00:00.000,Copa America,2024,Group Stage,Uruguay,Bolivia,5,0,MetLife Stadium,Juan Gabriel Benítez,2024-06-28 | Uruguay 5-0 Bolivia,Win,Loss,Copa América,Copa América_2024
+3939980,2024-06-26,22:00:00.000,Copa America,2024,Group Stage,Ecuador,Jamaica,3,1,Allegiant Stadium,Cristián Marcelo Garay Reyes,2024-06-26 | Ecuador 3-1 Jamaica,Win,Loss,Copa América,Copa América_2024
+3939977,2024-06-26,01:00:00.000,Copa America,2024,Group Stage,Chile,Argentina,0,1,MetLife Stadium,Andrés Matonte,2024-06-26 | Chile 0-1 Argentina,Loss,Win,Copa América,Copa América_2024
+3939975,2024-06-24,22:00:00.000,Copa America,2024,Group Stage,Colombia,Paraguay,2,1,NRG Stadium,Darío Herrera,2024-06-24 | Colombia 2-1 Paraguay,Win,Loss,Copa América,Copa América_2024
+3939974,2024-06-23,22:00:00.000,Copa America,2024,Group Stage,United States,Bolivia,2,0,AT&T Stadium,Maurizio Mariani,2024-06-23 | United States 2-0 Bolivia,Win,Loss,Copa América,Copa América_2024
+3939986,2024-06-30,00:00:00.000,Copa America,2024,Group Stage,Argentina,Peru,2,0,Hard Rock Stadium,César Arturo Ramos Palazuelos,2024-06-30 | Argentina 2-0 Peru,Win,Loss,Copa América,Copa América_2024
+3939971,2024-06-23,01:00:00.000,Copa America,2024,Group Stage,Mexico,Jamaica,1,0,NRG Stadium,Ismail Elfath,2024-06-23 | Mexico 1-0 Jamaica,Win,Loss,Copa América,Copa América_2024
+3939979,2024-06-27,01:00:00.000,Copa America,2024,Group Stage,Venezuela,Mexico,1,0,SoFi Stadium,Raphael Claus,2024-06-27 | Venezuela 1-0 Mexico,Win,Loss,Copa América,Copa América_2024
+3939988,2024-07-01,00:00:00.000,Copa America,2024,Group Stage,Mexico,Ecuador,0,0,State Farm Stadium,Mario Alberto Escobar Toca,2024-07-01 | Mexico 0-0 Ecuador,Draw,Draw,Copa América,Copa América_2024
+3939990,2024-07-02,01:00:00.000,Copa America,2024,Group Stage,United States,Uruguay,0,1,Arrowhead Stadium,Kevin Ortega,2024-07-02 | United States 0-1 Uruguay,Loss,Win,Copa América,Copa América_2024
+3939983,2024-06-29,01:00:00.000,Copa America,2024,Group Stage,Paraguay,Brazil,1,4,Allegiant Stadium,Piero Maza Gomez,2024-06-29 | Paraguay 1-4 Brazil,Loss,Win,Copa América,Copa América_2024
+3939972,2024-06-22,22:00:00.000,Copa America,2024,Group Stage,Ecuador,Venezuela,1,2,Levi''s Stadium,Wilmar Alexander Roldán Pérez,2024-06-22 | Ecuador 1-2 Venezuela,Loss,Win,Copa América,Copa América_2024
+3939978,2024-06-25,22:00:00.000,Copa America,2024,Group Stage,Peru,Canada,0,1,Children''s Mercy Park,Mario Alberto Escobar Toca,2024-06-25 | Peru 0-1 Canada,Loss,Win,Copa América,Copa América_2024
+3939976,2024-06-25,01:00:00.000,Copa America,2024,Group Stage,Brazil,Costa Rica,0,0,SoFi Stadium,César Arturo Ramos Palazuelos,2024-06-25 | Brazil 0-0 Costa Rica,Draw,Draw,Copa América,Copa América_2024
+3939992,2024-07-03,01:00:00.000,Copa America,2024,Group Stage,Costa Rica,Paraguay,2,1,Q2 Stadium,Yael Falcón Pérez,2024-07-03 | Costa Rica 2-1 Paraguay,Win,Loss,Copa América,Copa América_2024
+3942416,2024-07-06,22:00:00.000,Copa America,2024,Quarter-finals,Colombia,Panama,5,0,State Farm Stadium,Maurizio Mariani,2024-07-06 | Colombia 5-0 Panama,Win,Loss,Copa América,Copa América_2024
+3943077,2024-07-15,01:15:00.000,Copa America,2024,Final,Argentina,Colombia,1,0,Hard Rock Stadium,Raphael Claus,2024-07-15 | Argentina 1-0 Colombia,Win,Loss,Copa América,Copa América_2024
+3943076,2024-07-14,00:00:00.000,Copa America,2024,3rd Place Final,Canada,Uruguay,2,2,Bank of America Stadium,Alexis Herrera,2024-07-14 | Canada 2-2 Uruguay,Draw,Draw,Copa América,Copa América_2024
+3942852,2024-07-11,00:00:00.000,Copa America,2024,Semi-finals,Uruguay,Colombia,0,1,Bank of America Stadium,César Arturo Ramos Palazuelos,2024-07-11 | Uruguay 0-1 Colombia,Loss,Win,Copa América,Copa América_2024
+3942785,2024-07-10,00:00:00.000,Copa America,2024,Semi-finals,Argentina,Canada,2,0,MetLife Stadium,Piero Maza Gomez,2024-07-10 | Argentina 2-0 Canada,Win,Loss,Copa América,Copa América_2024
+3942415,2024-07-07,01:00:00.000,Copa America,2024,Quarter-finals,Uruguay,Brazil,0,0,Allegiant Stadium,Darío Herrera,2024-07-07 | Uruguay 0-0 Brazil,Draw,Draw,Copa América,Copa América_2024
+3939973,2024-06-24,01:00:00.000,Copa America,2024,Group Stage,Uruguay,Panama,3,1,Hard Rock Stadium,Piero Maza Gomez,2024-06-24 | Uruguay 3-1 Panama,Win,Loss,Copa América,Copa América_2024
+3942229,2024-07-06,01:00:00.000,Copa America,2024,Quarter-finals,Venezuela,Canada,1,1,AT&T Stadium,Wilton Pereira Sampaio,2024-07-06 | Venezuela 1-1 Canada,Draw,Draw,Copa América,Copa América_2024
+3942228,2024-07-05,01:00:00.000,Copa America,2024,Quarter-finals,Argentina,Ecuador,1,1,NRG Stadium,Andrés Matonte,2024-07-05 | Argentina 1-1 Ecuador,Draw,Draw,Copa América,Copa América_2024
+3939985,2024-06-30,00:00:00.000,Copa America,2024,Group Stage,Canada,Chile,0,0,Inter&Co Stadium,Wilmar Alexander Roldán Pérez,2024-06-30 | Canada 0-0 Chile,Draw,Draw,Copa América,Copa América_2024
+3939984,2024-06-28,22:00:00.000,Copa America,2024,Group Stage,Colombia,Costa Rica,3,0,State Farm Stadium,Gustavo Tejera,2024-06-28 | Colombia 3-0 Costa Rica,Win,Loss,Copa América,Copa América_2024
+3939981,2024-06-27,22:00:00.000,Copa America,2024,Group Stage,Panama,United States,2,1,Mercedes-Benz Stadium,Ivan Arcides Barton Cisneros,2024-06-27 | Panama 2-1 United States,Win,Loss,Copa América,Copa América_2024
+3939989,2024-07-02,01:00:00.000,Copa America,2024,Group Stage,Bolivia,Panama,1,3,Inter&Co Stadium,Edina Alves Batista,2024-07-02 | Bolivia 1-3 Panama,Loss,Win,Copa América,Copa América_2024
+3939969,2024-06-21,00:00:00.000,Copa America,2024,Group Stage,Argentina,Canada,2,0,Mercedes-Benz Stadium,Jesús Valenzuela Sáez,2024-06-21 | Argentina 2-0 Canada,Win,Loss,Copa América,Copa América_2024
+3857276,2022-12-01,15:00:00.000,FIFA World Cup,2022,Group Stage,Canada,Morocco,1,2,Al Thumama Stadium,Raphael Claus,2022-12-01 | Canada 1-2 Morocco,Loss,Win,World Cup,World Cup_2022
+3857271,2022-11-21,13:00:00.000,FIFA World Cup,2022,Group Stage,England,Iran,6,2,Sheikh Khalifa International Stadium,Raphael Claus,2022-11-21 | England 6-2 Iran,Win,Loss,World Cup,World Cup_2022
+3857296,2022-12-01,15:00:00.000,FIFA World Cup,2022,Group Stage,Croatia,Belgium,0,0,Ahmad bin Ali Stadium,Anthony Taylor,2022-12-01 | Croatia 0-0 Belgium,Draw,Draw,World Cup,World Cup_2022
+3857274,2022-11-25,16:00:00.000,FIFA World Cup,2022,Group Stage,Netherlands,Ecuador,1,1,Sheikh Khalifa International Stadium,Mustapha Ghorbal,2022-11-25 | Netherlands 1-1 Ecuador,Draw,Draw,World Cup,World Cup_2022
+3857255,2022-12-01,19:00:00.000,FIFA World Cup,2022,Group Stage,Japan,Spain,2,1,Sheikh Khalifa International Stadium,Victor Miguel de Freitas Gomes,2022-12-01 | Japan 2-1 Spain,Win,Loss,World Cup,World Cup_2022
+3857272,2022-11-25,19:00:00.000,FIFA World Cup,2022,Group Stage,England,United States,0,0,Al Bayt Stadium,Jesús Valenzuela Sáez,2022-11-25 | England 0-0 United States,Draw,Draw,World Cup,World Cup_2022
+3857278,2022-11-29,19:00:00.000,FIFA World Cup,2022,Group Stage,Iran,United States,0,1,Al Thumama Stadium,Antonio Miguel Mateu Lahoz,2022-11-29 | Iran 0-1 United States,Loss,Win,World Cup,World Cup_2022
+3857277,2022-11-23,10:00:00.000,FIFA World Cup,2022,Group Stage,Morocco,Croatia,0,0,Al Bayt Stadium,Fernando Andrés Rapallini,2022-11-23 | Morocco 0-0 Croatia,Draw,Draw,World Cup,World Cup_2022
+3857273,2022-11-25,10:00:00.000,FIFA World Cup,2022,Group Stage,Wales,Iran,0,2,Ahmad bin Ali Stadium,Mario Alberto Escobar Toca,2022-11-25 | Wales 0-2 Iran,Loss,Win,World Cup,World Cup_2022
+3857275,2022-11-30,15:00:00.000,FIFA World Cup,2022,Group Stage,Tunisia,France,1,0,Education City Stadium ,Matthew Conger,2022-11-30 | Tunisia 1-0 France,Win,Loss,World Cup,World Cup_2022
+3857261,2022-11-29,19:00:00.000,FIFA World Cup,2022,Group Stage,Wales,England,0,3,Ahmad bin Ali Stadium,Slavko Vinčić,2022-11-29 | Wales 0-3 England,Loss,Win,World Cup,World Cup_2022
+3857290,2022-11-24,10:00:00.000,FIFA World Cup,2022,Group Stage,Switzerland,Cameroon,1,0,Al Janoub Stadium   ,Facundo Tello Figueroa,2022-11-24 | Switzerland 1-0 Cameroon,Win,Loss,World Cup,World Cup_2022
+3857298,2022-11-24,16:00:00.000,FIFA World Cup,2022,Group Stage,Portugal,Ghana,3,2,Stadium 974,Ismail Elfath,2022-11-24 | Portugal 3-2 Ghana,Win,Loss,World Cup,World Cup_2022
+3857285,2022-11-21,16:00:00.000,FIFA World Cup,2022,Group Stage,Senegal,Netherlands,0,2,Al Thumama Stadium,Wilton Pereira Sampaio,2022-11-21 | Senegal 0-2 Netherlands,Loss,Win,World Cup,World Cup_2022
+3857282,2022-11-21,19:00:00.000,FIFA World Cup,2022,Group Stage,United States,Wales,1,1,Ahmad bin Ali Stadium,Abdulrahman Ibrahim Al Jassim,2022-11-21 | United States 1-1 Wales,Draw,Draw,World Cup,World Cup_2022
+3857297,2022-11-26,13:00:00.000,FIFA World Cup,2022,Group Stage,Poland,Saudi Arabia,2,0,Education City Stadium ,Wilton Pereira Sampaio,2022-11-26 | Poland 2-0 Saudi Arabia,Win,Loss,World Cup,World Cup_2022
+3857294,2022-11-29,15:00:00.000,FIFA World Cup,2022,Group Stage,Netherlands,Qatar,2,0,Al Bayt Stadium,Bakary Papa Gassama,2022-11-29 | Netherlands 2-0 Qatar,Win,Loss,World Cup,World Cup_2022
+3857266,2022-11-26,16:00:00.000,FIFA World Cup,2022,Group Stage,France,Denmark,2,1,Stadium 974,Szymon Marciniak,2022-11-26 | France 2-1 Denmark,Win,Loss,World Cup,World Cup_2022
+3857284,2022-11-23,13:00:00.000,FIFA World Cup,2022,Group Stage,Germany,Japan,1,2,Sheikh Khalifa International Stadium,Ivan Arcides Barton Cisneros,2022-11-23 | Germany 1-2 Japan,Loss,Win,World Cup,World Cup_2022
+3857254,2022-11-22,13:00:00.000,FIFA World Cup,2022,Group Stage,Denmark,Tunisia,0,0,Education City Stadium ,César Arturo Ramos Palazuelos,2022-11-22 | Denmark 0-0 Tunisia,Draw,Draw,World Cup,World Cup_2022
+3857265,2022-11-22,16:00:00.000,FIFA World Cup,2022,Group Stage,Mexico,Poland,0,0,Stadium 974,Chris Beath,2022-11-22 | Mexico 0-0 Poland,Draw,Draw,World Cup,World Cup_2022
+3857301,2022-11-25,13:00:00.000,FIFA World Cup,2022,Group Stage,Qatar,Senegal,1,3,Al Thumama Stadium,Antonio Miguel Mateu Lahoz,2022-11-25 | Qatar 1-3 Senegal,Loss,Win,World Cup,World Cup_2022
+3857268,2022-11-23,19:00:00.000,FIFA World Cup,2022,Group Stage,Belgium,Canada,1,0,Ahmad bin Ali Stadium,Janny Sikazwe,2022-11-23 | Belgium 1-0 Canada,Win,Loss,World Cup,World Cup_2022
+3857269,2022-11-28,16:00:00.000,FIFA World Cup,2022,Group Stage,Brazil,Switzerland,1,0,Stadium 974,Ivan Arcides Barton Cisneros,2022-11-28 | Brazil 1-0 Switzerland,Win,Loss,World Cup,World Cup_2022
+3869321,2022-12-09,19:00:00.000,FIFA World Cup,2022,Quarter-finals,Netherlands,Argentina,2,2,Lusail Stadium,Antonio Miguel Mateu Lahoz,2022-12-09 | Netherlands 2-2 Argentina,Draw,Draw,World Cup,World Cup_2022
+3857292,2022-12-01,19:00:00.000,FIFA World Cup,2022,Group Stage,Costa Rica,Germany,2,4,Al Bayt Stadium,Stéphanie Frappart,2022-12-01 | Costa Rica 2-4 Germany,Loss,Win,World Cup,World Cup_2022
+3857295,2022-11-27,10:00:00.000,FIFA World Cup,2022,Group Stage,Japan,Costa Rica,0,1,Ahmad bin Ali Stadium,Michael Oliver,2022-11-27 | Japan 0-1 Costa Rica,Loss,Win,World Cup,World Cup_2022
+3869685,2022-12-18,17:00:00.000,FIFA World Cup,2022,Final,Argentina,France,3,3,Lusail Stadium,Szymon Marciniak,2022-12-18 | Argentina 3-3 France,Draw,Draw,World Cup,World Cup_2022
+3869684,2022-12-17,17:00:00.000,FIFA World Cup,2022,3rd Place Final,Croatia,Morocco,2,1,Sheikh Khalifa International Stadium,Abdulrahman Ibrahim Al Jassim,2022-12-17 | Croatia 2-1 Morocco,Win,Loss,World Cup,World Cup_2022
+3857256,2022-12-02,19:00:00.000,FIFA World Cup,2022,Group Stage,Serbia,Switzerland,2,3,Stadium 974,Fernando Andrés Rapallini,2022-12-02 | Serbia 2-3 Switzerland,Loss,Win,World Cup,World Cup_2022
+3869151,2022-12-03,21:00:00.000,FIFA World Cup,2022,Round of 16,Argentina,Australia,2,1,Ahmad bin Ali Stadium,Szymon Marciniak,2022-12-03 | Argentina 2-1 Australia,Win,Loss,World Cup,World Cup_2022
+3857257,2022-11-30,15:00:00.000,FIFA World Cup,2022,Group Stage,Australia,Denmark,1,0,Al Janoub Stadium   ,Mustapha Ghorbal,2022-11-30 | Australia 1-0 Denmark,Win,Loss,World Cup,World Cup_2022
+3857258,2022-11-24,19:00:00.000,FIFA World Cup,2022,Group Stage,Brazil,Serbia,2,0,Lusail Stadium,Alireza Faghani,2022-11-24 | Brazil 2-0 Serbia,Win,Loss,World Cup,World Cup_2022
+3857288,2022-11-26,10:00:00.000,FIFA World Cup,2022,Group Stage,Tunisia,Australia,0,1,Al Janoub Stadium   ,Daniel Siebert,2022-11-26 | Tunisia 0-1 Australia,Loss,Win,World Cup,World Cup_2022
+3857267,2022-11-29,15:00:00.000,FIFA World Cup,2022,Group Stage,Ecuador,Senegal,1,2,Sheikh Khalifa International Stadium,Clément Turpin,2022-11-29 | Ecuador 1-2 Senegal,Loss,Win,World Cup,World Cup_2022
+3857287,2022-11-24,13:00:00.000,FIFA World Cup,2022,Group Stage,Uruguay,South Korea,0,0,Education City Stadium ,Clément Turpin,2022-11-24 | Uruguay 0-0 South Korea,Draw,Draw,World Cup,World Cup_2022
+3869486,2022-12-10,17:00:00.000,FIFA World Cup,2022,Quarter-finals,Morocco,Portugal,1,0,Al Thumama Stadium,Facundo Tello Figueroa,2022-12-10 | Morocco 1-0 Portugal,Win,Loss,World Cup,World Cup_2022
+3857260,2022-11-30,19:00:00.000,FIFA World Cup,2022,Group Stage,Saudi Arabia,Mexico,1,2,Lusail Stadium,Michael Oliver,2022-11-30 | Saudi Arabia 1-2 Mexico,Loss,Win,World Cup,World Cup_2022
+3857264,2022-11-30,19:00:00.000,FIFA World Cup,2022,Group Stage,Poland,Argentina,0,2,Stadium 974,Danny Desmond Makkelie,2022-11-30 | Poland 0-2 Argentina,Loss,Win,World Cup,World Cup_2022
+3857289,2022-11-26,19:00:00.000,FIFA World Cup,2022,Group Stage,Argentina,Mexico,2,0,Lusail Stadium,Daniele Orsato,2022-11-26 | Argentina 2-0 Mexico,Win,Loss,World Cup,World Cup_2022
+3869254,2022-12-06,21:00:00.000,FIFA World Cup,2022,Round of 16,Portugal,Switzerland,6,1,Lusail Stadium,César Arturo Ramos Palazuelos,2022-12-06 | Portugal 6-1 Switzerland,Win,Loss,World Cup,World Cup_2022
+3869118,2022-12-04,21:00:00.000,FIFA World Cup,2022,Round of 16,England,Senegal,3,0,Al Bayt Stadium,Ivan Arcides Barton Cisneros,2022-12-04 | England 3-0 Senegal,Win,Loss,World Cup,World Cup_2022
+3869519,2022-12-13,21:00:00.000,FIFA World Cup,2022,Semi-finals,Argentina,Croatia,3,0,Lusail Stadium,Daniele Orsato,2022-12-13 | Argentina 3-0 Croatia,Win,Loss,World Cup,World Cup_2022
+3869354,2022-12-10,21:00:00.000,FIFA World Cup,2022,Quarter-finals,England,France,1,2,Al Bayt Stadium,Wilton Pereira Sampaio,2022-12-10 | England 1-2 France,Loss,Win,World Cup,World Cup_2022
+3869552,2022-12-14,21:00:00.000,FIFA World Cup,2022,Semi-finals,France,Morocco,2,0,Al Bayt Stadium,César Arturo Ramos Palazuelos,2022-12-14 | France 2-0 Morocco,Win,Loss,World Cup,World Cup_2022
+3869420,2022-12-09,17:00:00.000,FIFA World Cup,2022,Quarter-finals,Croatia,Brazil,1,1,Education City Stadium ,Michael Oliver,2022-12-09 | Croatia 1-1 Brazil,Draw,Draw,World Cup,World Cup_2022
+3869220,2022-12-06,17:00:00.000,FIFA World Cup,2022,Round of 16,Morocco,Spain,0,0,Education City Stadium ,Fernando Andrés Rapallini,2022-12-06 | Morocco 0-0 Spain,Draw,Draw,World Cup,World Cup_2022
+3869219,2022-12-05,17:00:00.000,FIFA World Cup,2022,Round of 16,Japan,Croatia,1,1,Al Janoub Stadium   ,Ismail Elfath,2022-12-05 | Japan 1-1 Croatia,Draw,Draw,World Cup,World Cup_2022
+3869253,2022-12-05,21:00:00.000,FIFA World Cup,2022,Round of 16,Brazil,South Korea,4,1,Stadium 974,Clément Turpin,2022-12-05 | Brazil 4-1 South Korea,Win,Loss,World Cup,World Cup_2022
+3869152,2022-12-04,17:00:00.000,FIFA World Cup,2022,Round of 16,France,Poland,3,1,Al Thumama Stadium,Jesús Valenzuela Sáez,2022-12-04 | France 3-1 Poland,Win,Loss,World Cup,World Cup_2022
+3869117,2022-12-03,17:00:00.000,FIFA World Cup,2022,Round of 16,Netherlands,United States,3,1,Sheikh Khalifa International Stadium,Wilton Pereira Sampaio,2022-12-03 | Netherlands 3-1 United States,Win,Loss,World Cup,World Cup_2022
+3857270,2022-11-28,19:00:00.000,FIFA World Cup,2022,Group Stage,Portugal,Uruguay,2,0,Lusail Stadium,Alireza Faghani,2022-11-28 | Portugal 2-0 Uruguay,Win,Loss,World Cup,World Cup_2022
+3857263,2022-11-27,19:00:00.000,FIFA World Cup,2022,Group Stage,Spain,Germany,1,1,Al Bayt Stadium,Danny Desmond Makkelie,2022-11-27 | Spain 1-1 Germany,Draw,Draw,World Cup,World Cup_2022
+3857283,2022-11-27,13:00:00.000,FIFA World Cup,2022,Group Stage,Belgium,Morocco,0,2,Al Thumama Stadium,César Arturo Ramos Palazuelos,2022-11-27 | Belgium 0-2 Morocco,Loss,Win,World Cup,World Cup_2022
+3857286,2022-11-20,16:00:00.000,FIFA World Cup,2022,Group Stage,Qatar,Ecuador,0,2,Al Bayt Stadium,Daniele Orsato,2022-11-20 | Qatar 0-2 Ecuador,Loss,Win,World Cup,World Cup_2022
+3857300,2022-11-22,10:00:00.000,FIFA World Cup,2022,Group Stage,Argentina,Saudi Arabia,1,2,Lusail Stadium,Slavko Vinčić,2022-11-22 | Argentina 1-2 Saudi Arabia,Loss,Win,World Cup,World Cup_2022
+3857299,2022-11-28,13:00:00.000,FIFA World Cup,2022,Group Stage,South Korea,Ghana,2,3,Education City Stadium ,Anthony Taylor,2022-11-28 | South Korea 2-3 Ghana,Loss,Win,World Cup,World Cup_2022
+3857293,2022-12-02,15:00:00.000,FIFA World Cup,2022,Group Stage,Ghana,Uruguay,0,2,Al Janoub Stadium   ,Daniel Siebert,2022-12-02 | Ghana 0-2 Uruguay,Loss,Win,World Cup,World Cup_2022
+3857291,2022-11-23,16:00:00.000,FIFA World Cup,2022,Group Stage,Spain,Costa Rica,7,0,Al Thumama Stadium,,2022-11-23 | Spain 7-0 Costa Rica,Win,Loss,World Cup,World Cup_2022
+3857281,2022-11-27,16:00:00.000,FIFA World Cup,2022,Group Stage,Croatia,Canada,4,1,Sheikh Khalifa International Stadium,Andrés Matonte,2022-11-27 | Croatia 4-1 Canada,Win,Loss,World Cup,World Cup_2022
+3857280,2022-12-02,19:00:00.000,FIFA World Cup,2022,Group Stage,Cameroon,Brazil,1,0,Lusail Stadium,Ismail Elfath,2022-12-02 | Cameroon 1-0 Brazil,Win,Loss,World Cup,World Cup_2022
+3857279,2022-11-22,19:00:00.000,FIFA World Cup,2022,Group Stage,France,Australia,4,1,Al Janoub Stadium   ,Victor Miguel de Freitas Gomes,2022-11-22 | France 4-1 Australia,Win,Loss,World Cup,World Cup_2022
+3857262,2022-12-02,15:00:00.000,FIFA World Cup,2022,Group Stage,South Korea,Portugal,2,1,Education City Stadium ,Facundo Tello Figueroa,2022-12-02 | South Korea 2-1 Portugal,Win,Loss,World Cup,World Cup_2022
+3930166,2024-06-18,19:00:00.000,UEFA Euro,2024,Group Stage,Portugal,Czech Republic,2,1,Red Bull Arena,Marco Guida,2024-06-18 | Portugal 2-1 Czech Republic,Win,Loss,Euro,Euro_2024
+3930159,2024-06-15,13:00:00.000,UEFA Euro,2024,Group Stage,Hungary,Switzerland,1,3,RheinEnergieStadion,Slavko Vinčić,2024-06-15 | Hungary 1-3 Switzerland,Loss,Win,Euro,Euro_2024
+3930163,2024-06-16,19:00:00.000,UEFA Euro,2024,Group Stage,Serbia,England,0,1,VELTINS-Arena,Daniele Orsato,2024-06-16 | Serbia 0-1 England,Loss,Win,Euro,Euro_2024
+3930181,2024-06-25,19:00:00.000,UEFA Euro,2024,Group Stage,England,Slovenia,0,0,RheinEnergieStadion,Clément Turpin,2024-06-25 | England 0-0 Slovenia,Draw,Draw,Euro,Euro_2024
+3930178,2024-06-24,19:00:00.000,UEFA Euro,2024,Group Stage,Croatia,Italy,1,1,Red Bull Arena,Danny Desmond Makkelie,2024-06-24 | Croatia 1-1 Italy,Draw,Draw,Euro,Euro_2024
+3930160,2024-06-15,16:00:00.000,UEFA Euro,2024,Group Stage,Spain,Croatia,3,0,Olympiastadion Berlin,Michael Oliver,2024-06-15 | Spain 3-0 Croatia,Win,Loss,Euro,Euro_2024
+3938643,2024-06-25,16:00:00.000,UEFA Euro,2024,Group Stage,France,Poland,1,1,Signal-Iduna-Park,Marco Guida,2024-06-25 | France 1-1 Poland,Draw,Draw,Euro,Euro_2024
+3938641,2024-06-21,16:00:00.000,UEFA Euro,2024,Group Stage,Poland,Austria,1,3,Olympiastadion Berlin,Halil Umut Meler,2024-06-21 | Poland 1-3 Austria,Loss,Win,Euro,Euro_2024
+3938642,2024-06-22,13:00:00.000,UEFA Euro,2024,Group Stage,Georgia,Czech Republic,1,1,Volksparkstadion,Daniel Siebert,2024-06-22 | Georgia 1-1 Czech Republic,Draw,Draw,Euro,Euro_2024
+3938639,2024-06-18,16:00:00.000,UEFA Euro,2024,Group Stage,Turkey,Georgia,3,1,Signal-Iduna-Park,Facundo Tello Figueroa,2024-06-18 | Turkey 3-1 Georgia,Win,Loss,Euro,Euro_2024
+3938637,2024-06-16,13:00:00.000,UEFA Euro,2024,Group Stage,Poland,Netherlands,1,2,Volksparkstadion,Artur Manuel Ribeiro Soares Dias,2024-06-16 | Poland 1-2 Netherlands,Loss,Win,Euro,Euro_2024
+3938644,2024-06-26,19:00:00.000,UEFA Euro,2024,Group Stage,Georgia,Portugal,2,0,VELTINS-Arena,Sandro Schärer,2024-06-26 | Georgia 2-0 Portugal,Win,Loss,Euro,Euro_2024
+3941019,2024-07-01,16:00:00.000,UEFA Euro,2024,Round of 16,France,Belgium,1,0,Merkur Spiel-Arena,Glenn Nyberg,2024-07-01 | France 1-0 Belgium,Win,Loss,Euro,Euro_2024
+3942227,2024-07-06,16:00:00.000,UEFA Euro,2024,Quarter-finals,England,Switzerland,1,1,Merkur Spiel-Arena,Daniele Orsato,2024-07-06 | England 1-1 Switzerland,Draw,Draw,Euro,Euro_2024
+3930174,2024-06-22,16:00:00.000,UEFA Euro,2024,Group Stage,Turkey,Portugal,0,3,Signal-Iduna-Park,Felix Zwayer,2024-06-22 | Turkey 0-3 Portugal,Loss,Win,Euro,Euro_2024
+3930176,2024-06-23,19:00:00.000,UEFA Euro,2024,Group Stage,Switzerland,Germany,1,1,Deutsche Bank Park,Daniele Orsato,2024-06-23 | Switzerland 1-1 Germany,Draw,Draw,Euro,Euro_2024
+3930169,2024-06-19,19:00:00.000,UEFA Euro,2024,Group Stage,Scotland,Switzerland,1,1,RheinEnergieStadion,Ivan Kružliak,2024-06-19 | Scotland 1-1 Switzerland,Draw,Draw,Euro,Euro_2024
+3942819,2024-07-10,19:00:00.000,UEFA Euro,2024,Semi-finals,Netherlands,England,1,2,Signal-Iduna-Park,Felix Zwayer,2024-07-10 | Netherlands 1-2 England,Loss,Win,Euro,Euro_2024
+3943043,2024-07-14,19:00:00.000,UEFA Euro,2024,Final,Spain,England,2,1,Olympiastadion Berlin,François Letexier,2024-07-14 | Spain 2-1 England,Win,Loss,Euro,Euro_2024
+3942752,2024-07-09,19:00:00.000,UEFA Euro,2024,Semi-finals,Spain,France,2,1,Allianz Arena,Slavko Vinčić,2024-07-09 | Spain 2-1 France,Win,Loss,Euro,Euro_2024
+3942382,2024-07-06,19:00:00.000,UEFA Euro,2024,Quarter-finals,Netherlands,Turkey,2,1,Olympiastadion Berlin,Clément Turpin,2024-07-06 | Netherlands 2-1 Turkey,Win,Loss,Euro,Euro_2024
+3942349,2024-07-05,19:00:00.000,UEFA Euro,2024,Quarter-finals,Portugal,France,0,0,Volksparkstadion,Michael Oliver,2024-07-05 | Portugal 0-0 France,Draw,Draw,Euro,Euro_2024
+3930180,2024-06-25,16:00:00.000,UEFA Euro,2024,Group Stage,Netherlands,Austria,2,3,Olympiastadion Berlin,Ivan Kružliak,2024-06-25 | Netherlands 2-3 Austria,Loss,Win,Euro,Euro_2024
+3930171,2024-06-20,16:00:00.000,UEFA Euro,2024,Group Stage,Denmark,England,1,1,Deutsche Bank Park,Artur Manuel Ribeiro Soares Dias,2024-06-20 | Denmark 1-1 England,Draw,Draw,Euro,Euro_2024
+3942226,2024-07-05,16:00:00.000,UEFA Euro,2024,Quarter-finals,Spain,Germany,2,1,MHPArena,Anthony Taylor,2024-07-05 | Spain 2-1 Germany,Win,Loss,Euro,Euro_2024
+3938645,2024-06-26,16:00:00.000,UEFA Euro,2024,Group Stage,Ukraine,Belgium,0,0,MHPArena,Anthony Taylor,2024-06-26 | Ukraine 0-0 Belgium,Draw,Draw,Euro,Euro_2024
+3930184,2024-06-26,22:00:00.000,UEFA Euro,2024,Group Stage,Czech Republic,Turkey,1,2,Volksparkstadion,István Kovács,2024-06-26 | Czech Republic 1-2 Turkey,Loss,Win,Euro,Euro_2024
+3941022,2024-07-02,19:00:00.000,UEFA Euro,2024,Round of 16,Austria,Turkey,1,2,Red Bull Arena,Artur Manuel Ribeiro Soares Dias,2024-07-02 | Austria 1-2 Turkey,Loss,Win,Euro,Euro_2024
+3941021,2024-07-02,16:00:00.000,UEFA Euro,2024,Round of 16,Romania,Netherlands,0,3,Allianz Arena,Felix Zwayer,2024-07-02 | Romania 0-3 Netherlands,Loss,Win,Euro,Euro_2024
+3941020,2024-07-01,19:00:00.000,UEFA Euro,2024,Round of 16,Portugal,Slovenia,0,0,Deutsche Bank Park,Daniele Orsato,2024-07-01 | Portugal 0-0 Slovenia,Draw,Draw,Euro,Euro_2024
+3941018,2024-06-30,19:00:00.000,UEFA Euro,2024,Round of 16,Spain,Georgia,4,1,RheinEnergieStadion,François Letexier,2024-06-30 | Spain 4-1 Georgia,Win,Loss,Euro,Euro_2024
+3941017,2024-06-30,16:00:00.000,UEFA Euro,2024,Round of 16,England,Slovakia,2,1,VELTINS-Arena,Halil Umut Meler,2024-06-30 | England 2-1 Slovakia,Win,Loss,Euro,Euro_2024
+3930179,2024-06-24,19:00:00.000,UEFA Euro,2024,Group Stage,Albania,Spain,0,1,Merkur Spiel-Arena,Glenn Nyberg,2024-06-24 | Albania 0-1 Spain,Loss,Win,Euro,Euro_2024
+3940983,2024-06-29,19:00:00.000,UEFA Euro,2024,Round of 16,Germany,Denmark,2,0,Signal-Iduna-Park,Michael Oliver,2024-06-29 | Germany 2-0 Denmark,Win,Loss,Euro,Euro_2024
+3940878,2024-06-29,16:00:00.000,UEFA Euro,2024,Round of 16,Switzerland,Italy,2,0,Olympiastadion Berlin,Szymon Marciniak,2024-06-29 | Switzerland 2-0 Italy,Win,Loss,Euro,Euro_2024
+3930177,2024-06-23,19:00:00.000,UEFA Euro,2024,Group Stage,Scotland,Hungary,0,1,MHPArena,Facundo Tello Figueroa,2024-06-23 | Scotland 0-1 Hungary,Loss,Win,Euro,Euro_2024
+3930173,2024-06-21,19:00:00.000,UEFA Euro,2024,Group Stage,Netherlands,France,0,0,Trainingszentrum RB Leipzig Platz 1,Anthony Taylor,2024-06-21 | Netherlands 0-0 France,Draw,Draw,Euro,Euro_2024
+3930172,2024-06-20,19:00:00.000,UEFA Euro,2024,Group Stage,Spain,Italy,1,0,VELTINS-Arena,Slavko Vinčić,2024-06-20 | Spain 1-0 Italy,Win,Loss,Euro,Euro_2024
+3930167,2024-06-19,13:00:00.000,UEFA Euro,2024,Group Stage,Croatia,Albania,2,2,Volksparkstadion,François Letexier,2024-06-19 | Croatia 2-2 Albania,Draw,Draw,Euro,Euro_2024
+3930168,2024-06-19,16:00:00.000,UEFA Euro,2024,Group Stage,Germany,Hungary,2,0,MHPArena,Danny Desmond Makkelie,2024-06-19 | Germany 2-0 Hungary,Win,Loss,Euro,Euro_2024
+3930165,2024-06-17,19:00:00.000,UEFA Euro,2024,Group Stage,Austria,France,0,1,Merkur Spiel-Arena,Jesús Gil Manzano,2024-06-17 | Austria 0-1 France,Loss,Win,Euro,Euro_2024
+3930164,2024-06-17,16:00:00.000,UEFA Euro,2024,Group Stage,Belgium,Slovakia,0,1,Deutsche Bank Park,Halil Umut Meler,2024-06-17 | Belgium 0-1 Slovakia,Loss,Win,Euro,Euro_2024
+3930175,2024-06-22,19:00:00.000,UEFA Euro,2024,Group Stage,Belgium,Romania,2,0,RheinEnergieStadion,Szymon Marciniak,2024-06-22 | Belgium 2-0 Romania,Win,Loss,Euro,Euro_2024
+3930158,2024-06-14,19:00:00.000,UEFA Euro,2024,Group Stage,Germany,Scotland,5,1,Allianz Arena,Clément Turpin,2024-06-14 | Germany 5-1 Scotland,Win,Loss,Euro,Euro_2024
