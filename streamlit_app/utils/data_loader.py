@@ -13,6 +13,7 @@ def load_csv(file_name):
     for path in [BASE_DIR / file_name, DATA_DIR / file_name]:
         if path.exists():
             return pd.read_csv(path)
+
     return pd.DataFrame()
 
 
@@ -25,13 +26,22 @@ def load_events():
 
     event_parts = sorted(DATA_DIR.glob("events_part_*.csv"))
 
+    st.write("DATA_DIR:", DATA_DIR)
+    st.write("EVENT PARTS:", [p.name for p in event_parts])
+
     if len(event_parts) == 0:
+        st.error("No se encontraron archivos events_part_*.csv")
         return pd.DataFrame()
 
-    return pd.concat(
+    df = pd.concat(
         [pd.read_csv(path) for path in event_parts],
         ignore_index=True
     )
+
+    st.write("EVENTS SHAPE:", df.shape)
+    st.write("EVENTS COLUMNS:", list(df.columns[:20]))
+
+    return df
 
 
 @st.cache_data
