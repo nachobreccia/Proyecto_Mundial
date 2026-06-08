@@ -1,9 +1,12 @@
 from pathlib import Path
+
 import pandas as pd
 import streamlit as st
 
+
 BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = BASE_DIR / "streamlit_app" / "data"
+
 
 @st.cache_data
 def load_csv(file_name):
@@ -12,20 +15,24 @@ def load_csv(file_name):
             return pd.read_csv(path)
     return pd.DataFrame()
 
+
 @st.cache_data
 def load_events():
-    full = load_csv("events.csv")
-    if len(full) > 0:
-        return full
+    full_events = load_csv("events.csv")
 
-    parts = sorted(DATA_DIR.glob("events_*.csv"))
-    if not parts:
-        parts = sorted(DATA_DIR.glob("events_part_*.csv"))
+    if not full_events.empty:
+        return full_events
 
-    if not parts:
+    event_parts = sorted(DATA_DIR.glob("events_part_*.csv"))
+
+    if len(event_parts) == 0:
         return pd.DataFrame()
 
-    return pd.concat([pd.read_csv(p) for p in parts], ignore_index=True)
+    return pd.concat(
+        [pd.read_csv(path) for path in event_parts],
+        ignore_index=True
+    )
+
 
 @st.cache_data
 def load_all_data():
