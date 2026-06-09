@@ -1,8 +1,6 @@
 from pathlib import Path
-
 import pandas as pd
 import streamlit as st
-
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = BASE_DIR / "streamlit_app" / "data"
@@ -11,14 +9,12 @@ DATA_DIR = BASE_DIR / "streamlit_app" / "data"
 @st.cache_data(show_spinner=False)
 def load_csv(file_name):
     path = DATA_DIR / file_name
-
     if path.exists():
         return pd.read_csv(path, low_memory=False)
-
     return pd.DataFrame()
 
 
-@st.cache_data(show_spinner="Loading events data...")
+@st.cache_data(show_spinner="Loading events...")
 def load_events():
     event_parts = sorted(DATA_DIR.glob("events_part_*.csv"))
 
@@ -36,11 +32,10 @@ def load_events():
     return events
 
 
-@st.cache_data(show_spinner="Loading data...")
-def load_all_data():
-    return {
+@st.cache_data(show_spinner="Loading base data...")
+def load_all_data(include_events=False):
+    data = {
         "matches": load_csv("matches.csv"),
-        "events": load_events(),
         "assets": load_csv("assets.csv"),
         "team_master": load_csv("team_master.csv"),
         "team_match_stats": load_csv("team_match_stats.csv"),
@@ -54,3 +49,10 @@ def load_all_data():
         "highlighted_matches": load_csv("highlighted_matches.csv"),
         "most_frequent_xi": load_csv("most_frequent_xi.csv"),
     }
+
+    if include_events:
+        data["events"] = load_events()
+    else:
+        data["events"] = pd.DataFrame()
+
+    return data
