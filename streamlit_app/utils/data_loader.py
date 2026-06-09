@@ -20,26 +20,24 @@ def load_csv(file_name):
 
 @st.cache_data(show_spinner="Loading events data...")
 def load_events():
-    event_parts = sorted(DATA_DIR.glob("events_part_*.csv"))
+    parquet_path = DATA_DIR / "events.parquet"
 
-    if len(event_parts) == 0:
-        return pd.DataFrame()
+    if parquet_path.exists():
+        events = pd.read_parquet(parquet_path)
 
-    events = pd.concat(
-        [pd.read_csv(path, low_memory=False) for path in event_parts],
-        ignore_index=True
-    )
+        if "event_type" not in events.columns and "type" in events.columns:
+            events["event_type"] = events["type"]
 
-    if "event_type" not in events.columns and "type" in events.columns:
-        events["event_type"] = events["type"]
+        return events
 
-    return events
+    return pd.DataFrame()
 
 
-@st.cache_data(show_spinner="Loading base data...")
-def load_all_data(include_events=False):
-    data = {
+@st.cache_data(show_spinner="Loading data...")
+def load_all_data(include_events=True):
+    return {
         "matches": load_csv("matches.csv"),
+        "events": load_events() if include_events else pd.DataFrame(),
         "assets": load_csv("assets.csv"),
         "team_master": load_csv("team_master.csv"),
         "team_match_stats": load_csv("team_match_stats.csv"),
@@ -53,10 +51,3 @@ def load_all_data(include_events=False):
         "highlighted_matches": load_csv("highlighted_matches.csv"),
         "most_frequent_xi": load_csv("most_frequent_xi.csv"),
     }
-
-    if include_events:
-        data["events"] = load_events()
-    else:
-        data["events"] = pd.DataFrame()
-
-    return data
