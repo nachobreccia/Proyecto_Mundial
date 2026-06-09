@@ -43,7 +43,7 @@ from utils.visuals import (
 st.set_page_config(page_title="Team Tournament", layout="wide")
 apply_global_style()
 
-data = load_all_data(include_events=True)
+data = load_all_data()
 
 matches = data["matches"]
 events = data["events"]
