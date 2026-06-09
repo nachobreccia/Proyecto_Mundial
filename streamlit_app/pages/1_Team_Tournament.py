@@ -1,6 +1,6 @@
 import ast
 from pathlib import Path
-
+from utils.data_loader import load_all_data, load_events
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -46,7 +46,7 @@ apply_global_style()
 data = load_all_data()
 
 matches = data["matches"]
-events = data["events"]
+
 team_master = data["team_master"]
 player_master = data["player_master"]
 most_frequent_xi = data["most_frequent_xi"]

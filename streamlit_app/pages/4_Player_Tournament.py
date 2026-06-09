@@ -1,6 +1,6 @@
 import ast
 from pathlib import Path
-
+from utils.data_loader import load_all_data, load_events
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,7 +24,7 @@ apply_global_style()
 data = load_all_data()
 
 matches = data["matches"]
-events = data["events"]
+
 player_master = data["player_master"]
 player_role_fit = data["player_role_fit"]
 player_similarity = data["player_similarity"]
@@ -750,6 +750,11 @@ def plot_highlighted_matches_bar(hm, player, team_color="#2563EB"):
 st.sidebar.title("Filters")
 
 tournament_id = st.sidebar.selectbox("Tournament", get_tournament_options(matches))
+events = load_events(tournament_id)
+
+if events.empty or "match_id" not in events.columns:
+    st.error(f"No events data available for tournament: {tournament_id}")
+    st.stop()
 team = st.sidebar.selectbox("Team", get_team_options(player_master, tournament_id))
 player = st.sidebar.selectbox("Player", get_player_options(player_master, tournament_id, team))
 

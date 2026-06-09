@@ -1,6 +1,6 @@
 import ast
 from pathlib import Path
-
+from utils.data_loader import load_all_data, load_events
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -18,7 +18,7 @@ apply_global_style()
 data = load_all_data()
 
 matches = data["matches"]
-events = data["events"]
+
 assets = data.get("assets", pd.DataFrame())
 
 if "event_type" not in events.columns and "type" in events.columns:
