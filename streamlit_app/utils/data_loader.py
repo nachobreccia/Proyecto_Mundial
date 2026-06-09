@@ -1,6 +1,8 @@
 from pathlib import Path
+
 import pandas as pd
 import streamlit as st
+
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = BASE_DIR / "streamlit_app" / "data"
@@ -9,12 +11,14 @@ DATA_DIR = BASE_DIR / "streamlit_app" / "data"
 @st.cache_data(show_spinner=False)
 def load_csv(file_name):
     path = DATA_DIR / file_name
+
     if path.exists():
         return pd.read_csv(path, low_memory=False)
+
     return pd.DataFrame()
 
 
-@st.cache_data(show_spinner="Loading events...")
+@st.cache_data(show_spinner="Loading events data...")
 def load_events():
     event_parts = sorted(DATA_DIR.glob("events_part_*.csv"))
 
