@@ -1,13 +1,13 @@
 import ast
 from pathlib import Path
-from utils.data_loader import load_all_data, load_events
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 from mplsoccer import Pitch
 
-from utils.data_loader import load_all_data
+from utils.data_loader import load_all_data, load_events
 from utils.filters import get_tournament_options, get_team_options, get_player_options
 from utils.style import apply_global_style
 from utils.cards import metric_card, text_card
@@ -19,12 +19,8 @@ apply_global_style()
 data = load_all_data()
 
 matches = data["matches"]
-
 assets = data["assets"]
 player_match_stats = data.get("player_match_stats_with_positions", None)
-
-if "event_type" not in events.columns and "type" in events.columns:
-    events["event_type"] = events["type"]
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
@@ -612,15 +608,22 @@ def plot_minutes_timeline(player_events, player, team_color="#2563EB"):
 # ============================================================
 # SIDEBAR
 # ============================================================
-
 st.sidebar.title("Filters")
 
 tournament_id = st.sidebar.selectbox("Tournament", get_tournament_options(matches))
+
 events = load_events(tournament_id)
 
 if events.empty or "match_id" not in events.columns:
     st.error(f"No events data available for tournament: {tournament_id}")
     st.stop()
+
+if "event_type" not in events.columns and "type" in events.columns:
+    events["event_type"] = events["type"]
+
+if "type" not in events.columns and "event_type" in events.columns:
+    events["type"] = events["event_type"]
+
 team = st.sidebar.selectbox("Team", get_team_options(events, tournament_id))
 player = st.sidebar.selectbox("Player", get_player_options(events, tournament_id, team))
 
