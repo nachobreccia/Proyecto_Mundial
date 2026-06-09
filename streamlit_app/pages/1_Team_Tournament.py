@@ -1,12 +1,13 @@
 import ast
 from pathlib import Path
-from utils.data_loader import load_all_data, load_events
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-from utils.data_loader import load_all_data
+from utils.data_loader import load_all_data, load_events
+
 from utils.filters import get_tournament_options, get_team_options, filter_team
 from utils.style import apply_global_style
 from utils.cards import metric_card, text_card, list_card, app_footer
@@ -46,15 +47,11 @@ apply_global_style()
 data = load_all_data()
 
 matches = data["matches"]
-
 team_master = data["team_master"]
 player_master = data["player_master"]
 most_frequent_xi = data["most_frequent_xi"]
 team_similarity = data["team_similarity"]
 assets = data["assets"]
-
-if "event_type" not in events.columns and "type" in events.columns:
-    events["event_type"] = events["type"]
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
@@ -612,6 +609,13 @@ def plot_similarity_bar_safe(team_similarity, tournament_id, team, primary_color
 st.sidebar.title("Filters")
 
 tournament_id = st.sidebar.selectbox("Tournament", get_tournament_options(matches))
+
+events = load_events(tournament_id)
+
+if events.empty or "match_id" not in events.columns:
+    st.error(f"No events data available for tournament: {tournament_id}")
+    st.stop()
+
 team = st.sidebar.selectbox("Team", get_team_options(team_master, tournament_id))
 
 team_row = filter_team(team_master, tournament_id, team)
