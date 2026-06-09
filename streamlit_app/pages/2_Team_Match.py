@@ -15,7 +15,7 @@ from utils.cards import metric_card, text_card
 st.set_page_config(page_title="Team Match", layout="wide")
 apply_global_style()
 
-data = load_all_data()
+data = load_all_data(include_events=True)
 
 matches = data["matches"]
 events = data["events"]
