@@ -1,13 +1,13 @@
 import ast
 from pathlib import Path
-from utils.data_loader import load_all_data, load_events
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 from mplsoccer import Pitch
 
-from utils.data_loader import load_all_data
+from utils.data_loader import load_all_data, load_events
 from utils.style import apply_global_style
 from utils.cards import metric_card, text_card
 
@@ -18,15 +18,7 @@ apply_global_style()
 data = load_all_data()
 
 matches = data["matches"]
-
 assets = data.get("assets", pd.DataFrame())
-
-if "event_type" not in events.columns and "type" in events.columns:
-    events["event_type"] = events["type"]
-
-if "type" not in events.columns and "event_type" in events.columns:
-    events["type"] = events["event_type"]
-
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
@@ -956,6 +948,18 @@ tournament_id = st.sidebar.selectbox(
     "Tournament",
     sorted(matches["tournament_id"].dropna().unique())
 )
+
+events = load_events(tournament_id)
+
+if events.empty or "match_id" not in events.columns:
+    st.error(f"No events data available for tournament: {tournament_id}")
+    st.stop()
+
+if "event_type" not in events.columns and "type" in events.columns:
+    events["event_type"] = events["type"]
+
+if "type" not in events.columns and "event_type" in events.columns:
+    events["type"] = events["event_type"]
 
 tournament_matches = matches[matches["tournament_id"] == tournament_id].copy()
 
