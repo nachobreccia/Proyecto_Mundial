@@ -1,0 +1,72 @@
+team,primary_color,secondary_color,country_code,flag_path,flag_exists
+Albania,#D80027,#000000,AL,assets/flags/albania.png,True
+Algeria,#006233,#FFFFFF,DZ,assets/flags/algeria.png,True
+Angola,#D21034,#000000,AO,assets/flags/angola.png,True
+Argentina,#75AADB,#FFFFFF,AR,assets/flags/argentina.png,True
+Australia,#012169,#FFCD00,AU,assets/flags/australia.png,True
+Austria,#ED2939,#FFFFFF,AT,assets/flags/austria.png,True
+Belgium,#000000,#FFD90C,BE,assets/flags/belgium.png,True
+Bolivia,#007A33,#FFD700,BO,assets/flags/bolivia.png,True
+Brazil,#009C3B,#FFDF00,BR,assets/flags/brazil.png,True
+Burkina Faso,#EF2B2D,#009E49,BF,assets/flags/burkina_faso.png,True
+Cameroon,#007A5E,#CE1126,CM,assets/flags/cameroon.png,True
+Canada,#FF0000,#FFFFFF,CA,assets/flags/canada.png,True
+Cape Verde Islands,#003893,#FFFFFF,CV,assets/flags/cape_verde_islands.png,True
+Chile,#D52B1E,#0039A6,CL,assets/flags/chile.png,True
+Colombia,#FCD116,#003893,CO,assets/flags/colombia.png,True
+Congo DR,#00A3E0,#EF3340,CD,assets/flags/congo_dr.png,True
+Costa Rica,#CE1126,#002B7F,CR,assets/flags/costa_rica.png,True
+Croatia,#D00000,#FFFFFF,HR,assets/flags/croatia.png,True
+Czech Republic,#D7141A,#11457E,CZ,assets/flags/czech_republic.png,True
+Côte d'Ivoire,#F77F00,#009E60,CI,assets/flags/cote_d_ivoire.png,True
+Denmark,#C60C30,#FFFFFF,DK,assets/flags/denmark.png,True
+Ecuador,#FFDD00,#034EA2,EC,assets/flags/ecuador.png,True
+Egypt,#CE1126,#000000,EG,assets/flags/egypt.png,True
+England,#FFFFFF,#C8102E,GB,assets/flags/england.png,True
+Equatorial Guinea,#E00000,#FFFFFF,GQ,assets/flags/equatorial_guinea.png,True
+France,#1D3557,#FFFFFF,FR,assets/flags/france.png,True
+Gambia,#CE1126,#3A7728,GM,assets/flags/gambia.png,True
+Georgia,#FFFFFF,#E41E20,GE,assets/flags/georgia.png,True
+Germany,#000000,#DD0000,DE,assets/flags/germany.png,True
+Ghana,#FCD116,#006B3F,GH,assets/flags/ghana.png,True
+Guinea,#CE1126,#FCD116,GN,assets/flags/guinea.png,True
+Guinea-Bissau,#FCD116,#CE1126,GW,assets/flags/guinea_bissau.png,True
+Hungary,#436F4D,#CD2A3E,HU,assets/flags/hungary.png,True
+Iran,#239F40,#DA0000,IR,assets/flags/iran.png,True
+Italy,#0066CC,#FFFFFF,IT,assets/flags/italy.png,True
+Jamaica,#009B3A,#FED100,JM,assets/flags/jamaica.png,True
+Japan,#FFFFFF,#BC002D,JP,assets/flags/japan.png,True
+Mali,#14B53A,#FCD116,ML,assets/flags/mali.png,True
+Mauritania,#006233,#D4AF37,MR,assets/flags/mauritania.png,True
+Mexico,#006847,#CE1126,MX,assets/flags/mexico.png,True
+Morocco,#C1272D,#006233,MA,assets/flags/morocco.png,True
+Mozambique,#007168,#000000,MZ,assets/flags/mozambique.png,True
+Namibia,#003580,#D21034,NA,assets/flags/namibia.png,True
+Netherlands,#FF6600,#FFFFFF,NL,assets/flags/netherlands.png,True
+Nigeria,#008751,#FFFFFF,NG,assets/flags/nigeria.png,True
+Panama,#005293,#D21034,PA,assets/flags/panama.png,True
+Paraguay,#D52B1E,#0038A8,PY,assets/flags/paraguay.png,True
+Peru,#D91023,#FFFFFF,PE,assets/flags/peru.png,True
+Poland,#FFFFFF,#DC143C,PL,assets/flags/poland.png,True
+Portugal,#006600,#FF0000,PT,assets/flags/portugal.png,True
+Qatar,#8A1538,#FFFFFF,QA,assets/flags/qatar.png,True
+Romania,#002B7F,#FCD116,RO,assets/flags/romania.png,True
+Saudi Arabia,#006C35,#FFFFFF,SA,assets/flags/saudi_arabia.png,True
+Scotland,#0065BD,#FFFFFF,GB-SCT,assets/flags/scotland.png,True
+Senegal,#00853F,#FDEF42,SN,assets/flags/senegal.png,True
+Serbia,#C6363C,#0C4076,RS,assets/flags/serbia.png,True
+Slovakia,#0B4EA2,#EE1C25,SK,assets/flags/slovakia.png,True
+Slovenia,#0056A3,#FFFFFF,SI,assets/flags/slovenia.png,True
+South Africa,#007749,#FFB81C,ZA,assets/flags/south_africa.png,True
+South Korea,#FFFFFF,#C60C30,KR,assets/flags/south_korea.png,True
+Spain,#AA151B,#F1BF00,ES,assets/flags/spain.png,True
+Switzerland,#FF0000,#FFFFFF,CH,assets/flags/switzerland.png,True
+Tanzania,#1EB53A,#00A3DD,TZ,assets/flags/tanzania.png,True
+Tunisia,#E70013,#FFFFFF,TN,assets/flags/tunisia.png,True
+Turkey,#E30A17,#FFFFFF,TR,assets/flags/turkey.png,True
+Ukraine,#0057B7,#FFD700,UA,assets/flags/ukraine.png,True
+United States,#3C3B6E,#B22234,US,assets/flags/united_states.png,True
+Uruguay,#6CABDD,#FFFFFF,UY,assets/flags/uruguay.png,True
+Venezuela,#8B1538,#F4C300,VE,assets/flags/venezuela.png,True
+Wales,#D30731,#046A38,GB-WLS,assets/flags/wales.png,True
+Zambia,#198A00,#FF7900,ZM,assets/flags/zambia.png,True
