@@ -1,8 +1,6 @@
 from pathlib import Path
-
 import pandas as pd
 import streamlit as st
-
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = BASE_DIR / "streamlit_app" / "data"
@@ -11,33 +9,35 @@ DATA_DIR = BASE_DIR / "streamlit_app" / "data"
 @st.cache_data(show_spinner=False)
 def load_csv(file_name):
     path = DATA_DIR / file_name
-
     if path.exists():
         return pd.read_csv(path, low_memory=False)
-
     return pd.DataFrame()
 
 
-@st.cache_data(show_spinner="Loading events data...")
-def load_events():
-    parquet_path = DATA_DIR / "events.parquet"
+@st.cache_data(show_spinner="Loading tournament events...")
+def load_events(tournament_id=None):
+    if tournament_id is None:
+        return pd.DataFrame()
 
-    if parquet_path.exists():
-        events = pd.read_parquet(parquet_path)
+    safe_name = str(tournament_id).replace("/", "_").replace(" ", "_")
+    path = DATA_DIR / f"events_{safe_name}.parquet"
 
-        if "event_type" not in events.columns and "type" in events.columns:
-            events["event_type"] = events["type"]
+    if not path.exists():
+        return pd.DataFrame()
 
-        return events
+    events = pd.read_parquet(path)
 
-    return pd.DataFrame()
+    if "event_type" not in events.columns and "type" in events.columns:
+        events["event_type"] = events["type"]
+
+    return events
 
 
-@st.cache_data(show_spinner="Loading data...")
-def load_all_data(include_events=True):
+@st.cache_data(show_spinner="Loading base data...")
+def load_all_data():
     return {
         "matches": load_csv("matches.csv"),
-        "events": load_events() if include_events else pd.DataFrame(),
+        "events": pd.DataFrame(),
         "assets": load_csv("assets.csv"),
         "team_master": load_csv("team_master.csv"),
         "team_match_stats": load_csv("team_match_stats.csv"),
